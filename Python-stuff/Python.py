@@ -1,1 +1,3 @@
-Print("Hello Planet")
+import pyautogui
+
+pyautogui.alert('Just a text', "Title")
